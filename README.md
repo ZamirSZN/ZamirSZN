@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZamirSZN
+- 👋 Hi, I’m Mubarak Lawal
 - 👀 I’m interested in Mobile App development
 - 🌱 I’m currently learning Flutter 
 - 💞️ I’m looking to collaborate on any project
