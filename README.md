@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mubarak Lawal
 - 👀 I’m interested in Mobile App & Backend development
-- 🌱 I’m currently learning Flutter 
+- 🌱 I’m a problem fixer
 - 💞️ I’m looking to collaborate on any project
 - 📫 You can reach me on +2349029709898
 
